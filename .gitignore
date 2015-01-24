@@ -47,3 +47,5 @@ Icon
 *.sdf
 *.opensdf
 *.filters
+*.suo
+*.exe
